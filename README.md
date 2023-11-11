@@ -29,20 +29,20 @@ cd vigilant
 
 # Run the application
 [run command]
-
+```
 ## Usage
 
 Provide instructions on how to use the tool:
 
-bash
+```bash
 
 # Command to start the tool
 [start command]
 
 # Example usage
 [example command or code block]
-
-Contributing
+```
+## Contributing
 
 Contributions to VIGILANT are welcome! Here are ways you can contribute:
 
@@ -54,6 +54,6 @@ Please read CONTRIBUTING.md for details on our code of conduct and the process f
 License
 
 This project is licensed under the [LICENSE NAME] - see the LICENSE.md file for details.
-Acknowledgments
+## Acknowledgments
 
     Acknowledge any contributors or sources that have been instrumental in your project.
